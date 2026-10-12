@@ -1,0 +1,6 @@
+{
+  "name": "M-Pesa STK Push Payment",
+  "description": "Safaricom Daraja Lipa Na M-Pesa Online (STK Push) payment terminal, interactive SIM Toolkit handset simulator, real-time webhook ledger, and API payload inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
